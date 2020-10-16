@@ -5,7 +5,7 @@
 
 - [ ] Conteúdo de Laboratório de Hardware
 - [ ] Conteúdo de Arquitetura e Organização de Computadores
-- [ ] Conteúdo de Lógima de Programação
+- [ ] Conteúdo de Lógica de Programação
 
 
 
