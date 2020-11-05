@@ -7,11 +7,10 @@ Finalizar o conteúdo das disciplinas e desenvolver as telas que serão utilizad
 - [ ] Conteúdo de Laboratório de Hardware
 - [ ] Conteúdo de Arquitetura e Organização de Computadores
 - [ ] Conteúdo de Lógica de Programação
-- [ ] Tela Inicial
+- [x] Tela Inicial
 - [ ] Configurar buckets Aws S3
-- [ ] Hospedagem
-- [ ] Edital perfil
-- [ ] Carrinho de compras
+- [x] Carrinho de compras
+- [x] Editar perfil
 - [ ] Pagamentos 
 - [ ] Lista de desejos
 - [ ] Histórico de compras
