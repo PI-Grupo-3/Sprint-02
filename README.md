@@ -13,7 +13,7 @@ Finalizar o conteúdo das disciplinas e desenvolver as telas que serão utilizad
 - [x] Editar perfil
 - [ ] Pagamentos 
 - [ ] Lista de desejos
-- [ ] Histórico de compras
+- [x] Histórico de compras
 - [ ] Registrar
 - [ ] Login
 
