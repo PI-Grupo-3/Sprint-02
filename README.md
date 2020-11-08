@@ -20,6 +20,8 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 
 ## Objetivos concluídos
 
+[Conteúdo da disciplina de Arquitetura e Organização de Computadores ()
+
 
 
 
