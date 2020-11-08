@@ -1,6 +1,6 @@
 ## Objetivos planejados
 
-Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver as telas que serão utilizadas pelos clientes do site, conforme check list abaixo. Entretando, devido à dificuldade que tivemos com a realização da integração do site, isso nos demandou mais tempos e não conseguimos concluir tudo que estava previsto
+Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver as telas que serão utilizadas pelos clientes do site, conforme check list abaixo. Entretando, devido à dificuldade que tivemos com a realização da integração do site, o que nos demandou mais tempo que o previsto inicialmente,  não conseguimos concluir todas as tarefas, e algumas serão entregues na sprint 03
 
 **Check list da entrega**
 
@@ -19,6 +19,7 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 
 
 ## Objetivos concluídos
+
 
 
 
