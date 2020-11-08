@@ -15,7 +15,7 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 - [x] Lista de desejos
 - [x] Histórico de compras
 - [ ] Registrar
-- [ ] Login
+- [x] Login
 
 
 ## Objetivos concluídos
