@@ -24,6 +24,7 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 
 [Acesso ao repositório do site](https://github.com/PI-Grupo-3/e-scholar)
 
+[Acesso ao gif de apresentação do site]
 
 
 
