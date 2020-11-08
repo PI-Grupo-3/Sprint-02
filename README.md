@@ -20,7 +20,7 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 
 ## Objetivos concluídos
 
-[Conteúdo da disciplina de Arquitetura e Organização de Computadores (https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Conte%C3%BAdo%20de%20AOC)
+[Conteúdo da disciplina de Arquitetura e Organização de Computadores](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Conte%C3%BAdo%20de%20AOC)
 
 
 
