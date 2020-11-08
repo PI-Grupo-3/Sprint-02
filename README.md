@@ -5,18 +5,20 @@ Finalizar o conteúdo das disciplinas e desenvolver as telas que serão utilizad
 **Check list da entrega**
 
 - [ ] Conteúdo de Laboratório de Hardware
-- [ ] Conteúdo de Arquitetura e Organização de Computadores
+- [x] Conteúdo de Arquitetura e Organização de Computadores
 - [ ] Conteúdo de Lógica de Programação
 - [x] Tela Inicial
 - [ ] Configurar buckets Aws S3
 - [x] Carrinho de compras
 - [x] Editar perfil
 - [x] Pagamentos 
-- [ ] Lista de desejos
+- [x] Lista de desejos
 - [x] Histórico de compras
 - [ ] Registrar
 - [ ] Login
 
+
+## Objetivos concluídos
 
 
 
