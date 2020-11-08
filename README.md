@@ -11,7 +11,7 @@ Finalizar o conteúdo das disciplinas e desenvolver as telas que serão utilizad
 - [ ] Configurar buckets Aws S3
 - [x] Carrinho de compras
 - [x] Editar perfil
-- [ ] Pagamentos 
+- [x] Pagamentos 
 - [ ] Lista de desejos
 - [x] Histórico de compras
 - [ ] Registrar
