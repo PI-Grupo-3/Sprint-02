@@ -26,7 +26,7 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 
 [Acesso à demonstração do site](https://www.dropbox.com/s/pl5fuglov41w69w/E-SCHOLAR%20-%20Google%20Chrome%202020-11-08%2017-24-34_Trim.mp4?dl=0)
 
-[Prints das páginas do site]()
+[Prints das páginas do site](https://github.com/PI-Grupo-3/prot-tipo/tree/master/src/Imagens%20do%20site)
 
 
 
