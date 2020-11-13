@@ -22,7 +22,7 @@ Para essa sprint planejamos finalizar o conteúdo das disciplinas e desenvolver 
 
 [Conteúdo da disciplina de Arquitetura e Organização de Computadores](https://github.com/PI-Grupo-3/prot-tipo/tree/master/Conte%C3%BAdo%20das%20Disciplinas/Conte%C3%BAdo%20de%20AOC)
 
-[Repositório do site](https://github.com/PI-Grupo-3/e-scholar)
+[Repositório com os códigos do site](https://github.com/PI-Grupo-3/e-scholar)
 
 [Demonstração do site](https://www.dropbox.com/s/pl5fuglov41w69w/E-SCHOLAR%20-%20Google%20Chrome%202020-11-08%2017-24-34_Trim.mp4?dl=0)
 
